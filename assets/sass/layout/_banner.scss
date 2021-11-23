@@ -23,17 +23,6 @@
 			opacity: 1;
 			margin: 0 0 (_size(element-margin) * 0.65) 0;
 
-			.icon {
-				border-radius: 100%;
-				border: solid 2px _palette(border);
-				cursor: default;
-				display: inline-block;
-				font-size: 2em;
-				height: 2.25em;
-				line-height: 2.25em;
-				text-align: center;
-				width: 2.25em;
-			}
 		}
 
 		h2 {
