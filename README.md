@@ -1,1 +1,3 @@
-# AnalogSmith 2021 :: Portfolio Site Template RE-MIX of "Solid State" by Pixelarity.com 
+# ROCKY PINES RANCH :: "Analog Smith" is/was a fail... Enough said..
+# ROCKY PINES RANCH is the new brand and landing page for all content related to Erik S Solutions and the former names...
+## The new brand will launch all of the content from before, current and after of the same creator. ESS..
